@@ -10,4 +10,4 @@ https://v2net.github.io/ios
 
 其他
 
-[Shadowrocket.ipa](https://github.com/v2net/ios/releases/)
+[Shadowrocket.ipa](https://github.com/shekang/ios/releases/)
